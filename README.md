@@ -13,7 +13,7 @@ A collection of in-depth technical articles covering web development, networking
 
 ## Blog Articles
 
-**Total Articles:** 12
+**Total Articles:** 13
 
 ### Git & Version Control Systems
 
@@ -48,6 +48,7 @@ Practical guides and tutorials for modern web development practices.
 | 10 | [Emmet for HTML: A Beginner's Guide to Writing Faster Markup](https://dev.to/ritam369/emmet-for-html-a-beginners-guide-to-writing-faster-markup-48el) | Emmet Guide |
 | 11 | [CSS Selectors 101: Targeting Elements with Precision](https://dev.to/ritam369/css-selectors-101-targeting-elements-with-precision-4i50) | CSS Selectors Deep Dive |
 | 12 | [How a Browser Works: A Beginner-Friendly Guide to Browser Internals](https://dev.to/ritam369/how-a-browser-works-a-beginner-friendly-guide-to-browser-internals-1f7c) | Browser Internals |
+| 13 | [JavaScript Hoisting and the Temporal Dead Zone — Why var got deprecated, and let/const Rule the Modern Stack](https://dev.to/ritam369/javascript-hoisting-and-the-temporal-dead-zone-why-var-got-deprecated-and-letconst-rule-the-1g6f) | Javascript Hoisting & TDZ  |
 
 ---
 
