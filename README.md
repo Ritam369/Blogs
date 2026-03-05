@@ -70,5 +70,5 @@ All blog articles are the intellectual property of Ritam Saha. Please give credi
 
 ---
 
-**Last Updated:** February 2026  
+**Last Updated:** March 2026  
 **Part of:** ChaiCode Webdev Cohort 2026
