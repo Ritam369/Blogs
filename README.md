@@ -13,7 +13,7 @@ A collection of in-depth technical articles covering web development, networking
 
 ## Blog Articles
 
-**Total Articles:** 19
+**Total Articles:** 25
 
 ### Git & Version Control Systems
 
@@ -48,13 +48,20 @@ Practical guides and tutorials for modern web development practices.
 | 10 | [Emmet for HTML: A Beginner's Guide to Writing Faster Markup](https://dev.to/ritam369/emmet-for-html-a-beginners-guide-to-writing-faster-markup-48el) | Emmet Guide |
 | 11 | [CSS Selectors 101: Targeting Elements with Precision](https://dev.to/ritam369/css-selectors-101-targeting-elements-with-precision-4i50) | CSS Selectors Deep Dive |
 | 12 | [How a Browser Works: A Beginner-Friendly Guide to Browser Internals](https://dev.to/ritam369/how-a-browser-works-a-beginner-friendly-guide-to-browser-internals-1f7c) | Browser Internals |
+| **NOTE** | **🔰 JavaScript Track Starts Here (from #13)** | **Subset within Web Development** |
 | 13 | [JavaScript Hoisting and the Temporal Dead Zone — Why var got deprecated, and let/const Rule the Modern Stack](https://dev.to/ritam369/javascript-hoisting-and-the-temporal-dead-zone-why-var-got-deprecated-and-letconst-rule-the-1g6f) | Javascript Hoisting & TDZ  |
 | 14 | [Understanding Variables and Data Types Fundamentals in JavaScript](https://dev.to/ritam369/understanding-variables-and-data-types-fundamentals-in-javascript-9ch) | Javascript Variables & Datatypes  |
 | 15 | [JavaScript Operators: The Fundamentals You Need to Know](https://dev.to/ritam369/javascript-operators-the-fundamentals-you-need-to-know-4ll2) | All about JavaScript Operators  |
 | 16 | [Mastering Control Flow in JavaScript: If, Else, Switch & Ternary Made Simple](https://dev.to/ritam369/mastering-control-flow-in-javascript-if-else-switch-ternary-made-simple-2dpn) | Control Flow in JavaScript  |
 | 17 | [Mastering JavaScript Arrays: A Beginner's Guide to Organize Data Like a Pro](https://dev.to/ritam369/mastering-javascript-arrays-a-beginners-guide-to-organize-data-like-a-pro-2dk0) | JavaScript Array Basics  |
 | 18 | [Mastering JavaScript Array Methods: A Beginner's Guide](https://dev.to/ritam369/mastering-javascript-array-methods-a-beginners-guide-3p89) | JavaScript Array Methods: push(), pop(), unshift(), shift(), forEach(), map(), reduce(), filter() |
-| 19 | [JavaScript Promises: From Pending Proposals to Bollywood Bliss – A Desi Guide to Async Magic](https://dev.to/ritam369/javascript-promises-from-pending-proposals-to-bollywood-bliss-a-desi-guide-to-async-magic-gbp) | JavaScript Async Operations 1 |
+| 19 | [Function Declaration vs Function Expression: What’s the Difference?](https://dev.to/ritam369/function-declaration-vs-function-expression-whats-the-difference-1a6o) | Function Declarations vs Function Expression in JavaScript |
+| 20 | [Arrow Functions in JavaScript: A Simpler Way to Write Functions](https://dev.to/ritam369/arrow-functions-in-javascript-a-simpler-way-to-write-functions-37a1) | All about Arrow function in JavaScript |
+| 21 | [Difference between global & globalThis](https://dev.to/ritam369/difference-between-global-globalthis-5cc6) | global vs globalThis in JavaScript |
+| 22 | [HTMLCollection vs NodeList in DOM: A JavaScript Guide](https://dev.to/ritam369/htmlcollection-vs-nodelist-in-dom-a-javascript-guide-2cd5) | All about HTMLCollection & NodeList in JavaScript |
+| 23 | [A Gentle Introduction to the Foundation of Node.js Architecture](https://dev.to/ritam369/a-gentle-introduction-to-the-foundation-of-nodejs-architecture-bfe) | The three Core Pillars of NodeJS |
+| 24 | [Mastering JavaScript Array Methods: A Beginner's Guide](https://dev.to/ritam369/deep-dive-into-nodejs-architecture-and-internal-workings-1dj9) | NodeJS Internal Workings while running a JS file |
+| 25 | [JavaScript Promises: From Pending Proposals to Bollywood Bliss – A Desi Guide to Async Magic](https://dev.to/ritam369/javascript-promises-from-pending-proposals-to-bollywood-bliss-a-desi-guide-to-async-magic-gbp) | JavaScript Async Operations 1 |
 
 ---
 
